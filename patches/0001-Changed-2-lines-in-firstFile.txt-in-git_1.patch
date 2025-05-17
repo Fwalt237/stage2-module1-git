@@ -1,0 +1,24 @@
+From 49d97cfc7e652753f738d03f32e6a58287847f91 Mon Sep 17 00:00:00 2001
+From: Fwalt237 <patrickkamwa17@gmail.com>
+Date: Sat, 17 May 2025 18:17:31 +0100
+Subject: [PATCH] Changed 2 lines in firstFile.txt in git_1
+
+---
+ firstFile.txt | 4 ++--
+ 1 file changed, 2 insertions(+), 2 deletions(-)
+
+diff --git a/firstFile.txt b/firstFile.txt
+index e53eaa1..075abb4 100644
+--- a/firstFile.txt
++++ b/firstFile.txt
+@@ -1,5 +1,5 @@
+-1
+-2
++1a
++2b
+ 3
+ 4
+ 5
+-- 
+2.47.1.windows.2
+
